@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zengtingwei/CLionProjects/2048Console/Board.cpp
+random
+-
+Board.h
+/Users/zengtingwei/CLionProjects/2048Console/Board.h
+
+/Users/zengtingwei/CLionProjects/2048Console/Board.h
+vector
+-
+iostream
+-
+
+/Users/zengtingwei/CLionProjects/2048Console/Game.cpp
+Game.h
+/Users/zengtingwei/CLionProjects/2048Console/Game.h
+
+/Users/zengtingwei/CLionProjects/2048Console/Game.h
+Board.h
+/Users/zengtingwei/CLionProjects/2048Console/Board.h
+

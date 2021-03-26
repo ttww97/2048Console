@@ -1,0 +1,3 @@
+/Users/zengtingwei/CLionProjects/2048Console/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zengtingwei/CLionProjects/2048Console/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zengtingwei/CLionProjects/2048Console/cmake-build-debug/CMakeFiles/2048Console.dir
